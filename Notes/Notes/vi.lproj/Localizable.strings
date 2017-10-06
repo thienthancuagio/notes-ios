@@ -1,0 +1,11 @@
+"NOTE_TOTAL" = "Tổng ghi chú: %ld ";
+"DELETE_ALL" = "Bạn có muốn xoá tất cả không ?";
+"DELETE" = "Bạn có muốn xoá hay không ?";
+"CANCEL" = "Huỷ bỏ";
+"TITLE_DELETE" = "Xoá tất cả";
+"DONE" = "Xong";
+"CFBundleDisplayName" = "Ghi chú";
+"EDIT" = "Sửa";
+"BUTTON_DELETE" = "Xoá";
+"BUTTON_DELETE_ALL" = "Xoá tất cả";
+"OK" = "Đồng ý";

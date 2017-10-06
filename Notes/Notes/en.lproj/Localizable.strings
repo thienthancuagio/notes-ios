@@ -1,0 +1,12 @@
+
+"NOTE_TOTAL" = "Total note: %ld ";
+"DELETE_ALL" = "Do you want delete all ?";
+"DELETE" = "Do you want delete ?";
+"CANCEL" = "Cancel";
+"TITLE_DELETE" = "Delete all";
+"DONE" = "DONE";
+"CFBundleDisplayName" = "Notes";
+"EDIT" = "Edit";
+"BUTTON_DELETE" = "Delete";
+"BUTTON_DELETE_ALL" = "Delete All";
+"OK" = "OK";
